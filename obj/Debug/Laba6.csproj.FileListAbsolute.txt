@@ -1,0 +1,14 @@
+C:\Users\Kate\Desktop\Laba6\bin\Debug\Laba6.exe.config
+C:\Users\Kate\Desktop\Laba6\bin\Debug\Laba6.exe
+C:\Users\Kate\Desktop\Laba6\bin\Debug\Laba6.pdb
+C:\Users\Kate\Desktop\Laba6\obj\Debug\Laba6.csprojAssemblyReference.cache
+C:\Users\Kate\Desktop\Laba6\obj\Debug\Laba6.csproj.CoreCompileInputs.cache
+C:\Users\Kate\Desktop\Laba6\obj\Debug\Laba6.exe
+C:\Users\Kate\Desktop\Laba6\obj\Debug\Laba6.pdb
+F:\универ\2 курс\ТиМП\Laba6\Laba6\bin\Debug\Laba6.exe.config
+F:\универ\2 курс\ТиМП\Laba6\Laba6\bin\Debug\Laba6.exe
+F:\универ\2 курс\ТиМП\Laba6\Laba6\bin\Debug\Laba6.pdb
+F:\универ\2 курс\ТиМП\Laba6\Laba6\obj\Debug\Laba6.csprojAssemblyReference.cache
+F:\универ\2 курс\ТиМП\Laba6\Laba6\obj\Debug\Laba6.csproj.CoreCompileInputs.cache
+F:\универ\2 курс\ТиМП\Laba6\Laba6\obj\Debug\Laba6.exe
+F:\универ\2 курс\ТиМП\Laba6\Laba6\obj\Debug\Laba6.pdb
